@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "angular-d3"
+  "defaultProject": "angular-d3",
+  "cli": {
+    "analytics": false
+  }
 }
